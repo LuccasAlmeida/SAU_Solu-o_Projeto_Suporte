@@ -1,0 +1,10 @@
+C:\Users\luccas.hsalmeida\Documents\Visual Studio 2019\Projetos\SAU\SAU\obj\Debug\SAU.csproj.AssemblyReference.cache
+C:\Users\luccas.hsalmeida\Documents\Visual Studio 2019\Projetos\SAU\SAU\obj\Debug\SAU.frmContatos.resources
+C:\Users\luccas.hsalmeida\Documents\Visual Studio 2019\Projetos\SAU\SAU\obj\Debug\SAU.Properties.Resources.resources
+C:\Users\luccas.hsalmeida\Documents\Visual Studio 2019\Projetos\SAU\SAU\obj\Debug\SAU.csproj.GenerateResource.cache
+C:\Users\luccas.hsalmeida\Documents\Visual Studio 2019\Projetos\SAU\SAU\obj\Debug\SAU.csproj.CoreCompileInputs.cache
+C:\Users\luccas.hsalmeida\Documents\Visual Studio 2019\Projetos\SAU\SAU\bin\Debug\SAU.exe.config
+C:\Users\luccas.hsalmeida\Documents\Visual Studio 2019\Projetos\SAU\SAU\bin\Debug\SAU.exe
+C:\Users\luccas.hsalmeida\Documents\Visual Studio 2019\Projetos\SAU\SAU\bin\Debug\SAU.pdb
+C:\Users\luccas.hsalmeida\Documents\Visual Studio 2019\Projetos\SAU\SAU\obj\Debug\SAU.exe
+C:\Users\luccas.hsalmeida\Documents\Visual Studio 2019\Projetos\SAU\SAU\obj\Debug\SAU.pdb
